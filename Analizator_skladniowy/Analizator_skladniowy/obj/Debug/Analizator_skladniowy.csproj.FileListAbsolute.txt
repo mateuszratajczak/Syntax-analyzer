@@ -1,0 +1,16 @@
+C:\Users\Mateusz Ratajczak\Documents\SharpDevelop Projects\Analizator_skladniowy\Analizator_skladniowy\bin\Debug\Analizator_skladniowy.exe
+C:\Users\Mateusz Ratajczak\Documents\SharpDevelop Projects\Analizator_skladniowy\Analizator_skladniowy\bin\Debug\Analizator_skladniowy.pdb
+C:\Users\Mateusz Ratajczak\Documents\SharpDevelop Projects\Analizator_skladniowy\Analizator_skladniowy\obj\Debug\Analizator_skladniowy.csprojResolveAssemblyReference.cache
+C:\Users\Mateusz Ratajczak\Documents\SharpDevelop Projects\Analizator_skladniowy\Analizator_skladniowy\obj\Debug\Analizator_skladniowy.exe
+C:\Users\Mateusz Ratajczak\Documents\SharpDevelop Projects\Analizator_skladniowy\Analizator_skladniowy\obj\Debug\Analizator_skladniowy.pdb
+C:\Users\Mateusz Ratajczak\Documents\SharpDevelop Projects\Analizator_skladniowy\Analizator_skladniowy\obj\Debug\Analizator_skladniowy.MainForm.resources
+C:\Users\Mateusz Ratajczak\Documents\SharpDevelop Projects\Analizator_skladniowy\Analizator_skladniowy\obj\Debug\Analizator_skladniowy.csproj.GenerateResource.Cache
+C:\Users\Mateusz Ratajczak\Documents\SharpDevelop Projects\Analizator_skladniowy\Analizator_skladniowy\obj\Debug\Analizator_skladniowy.csproj.CoreCompileInputs.cache
+C:\Users\mrata\OneDrive\Desktop\PROJEKTY DO WRZUCENIA\Analizator + Turing\Analizator_skladniowy\Analizator_skladniowy\bin\Debug\Analizator_skladniowy.exe
+C:\Users\mrata\OneDrive\Desktop\PROJEKTY DO WRZUCENIA\Analizator + Turing\Analizator_skladniowy\Analizator_skladniowy\bin\Debug\Analizator_skladniowy.pdb
+C:\Users\mrata\OneDrive\Desktop\PROJEKTY DO WRZUCENIA\Analizator + Turing\Analizator_skladniowy\Analizator_skladniowy\obj\Debug\Analizator_skladniowy.csprojAssemblyReference.cache
+C:\Users\mrata\OneDrive\Desktop\PROJEKTY DO WRZUCENIA\Analizator + Turing\Analizator_skladniowy\Analizator_skladniowy\obj\Debug\Analizator_skladniowy.MainForm.resources
+C:\Users\mrata\OneDrive\Desktop\PROJEKTY DO WRZUCENIA\Analizator + Turing\Analizator_skladniowy\Analizator_skladniowy\obj\Debug\Analizator_skladniowy.csproj.GenerateResource.cache
+C:\Users\mrata\OneDrive\Desktop\PROJEKTY DO WRZUCENIA\Analizator + Turing\Analizator_skladniowy\Analizator_skladniowy\obj\Debug\Analizator_skladniowy.csproj.CoreCompileInputs.cache
+C:\Users\mrata\OneDrive\Desktop\PROJEKTY DO WRZUCENIA\Analizator + Turing\Analizator_skladniowy\Analizator_skladniowy\obj\Debug\Analizator_skladniowy.exe
+C:\Users\mrata\OneDrive\Desktop\PROJEKTY DO WRZUCENIA\Analizator + Turing\Analizator_skladniowy\Analizator_skladniowy\obj\Debug\Analizator_skladniowy.pdb
